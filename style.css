@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+}
+.container {
+        text-align: center;
+}
+.container img {
+    width: 200px;
+    height: auto;
+}
+.container2 {
+    text-align: center;
+    margin-top: 2rem;
+    color: #004d4c;
+    background-color: #fdfbf1;
+    border-top: solid #ffd877;  
+    border-width: 1px;
+    padding: 20px;
+}
+div h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    height: auto;
+    width: 600px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    padding-bottom: 30px;
+}
+main{
+    height: auto;
+    width: 720px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
+div img {
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px;
+}
+.pp{
+    color: #999999;
+    text-align: center;
+}
+.feature{
+    color: #b5460f;
+}
