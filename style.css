@@ -62,5 +62,6 @@ hr{
     font-family: 'Roboto', sans-serif;
 }
 .last-p{
+    list-style: none;
     padding-left: 40px;
 }
