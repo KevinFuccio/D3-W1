@@ -42,4 +42,25 @@ div img {
 }
 .feature{
     color: #b5460f;
+    border-left: solid #ffd877 1px;
+    padding-left: 20px;
+}
+.last{
+    color: #107777;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+hr{
+   border: solid #c4f3f2 1px;
+   margin-top: 40px;
+   margin-bottom: 40px;
+}
+.unlisted{
+    font-family: 'Roboto', sans-serif;
+}
+.last-p{
+    padding-left: 40px;
 }
